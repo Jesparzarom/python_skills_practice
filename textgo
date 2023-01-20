@@ -1,0 +1,35 @@
+El método descartesiano, propuesto por el filósofo francés René Descartes, se basa en cuatro reglas:
+
+Dividir cada dificultad en tantas partes como sea posible y necesario para resolverlo mejor.
+Comenzar por las partes más simples y fáciles de entender antes de avanzar a las más complejas.
+Revisar cada paso y cada parte, para asegurarse de que no se ha cometido ningún error.
+Proceder con orden, es decir, avanzar paso a paso, y no saltarse ningún paso importante.
+
+Estas reglas se pueden relacionar con la programación de la siguiente manera:
+
+
+Dividir cada dificultad en tantas partes como sea posible: En programación, esto se relaciona con el
+principio de responsabilidad única, donde se divide un problema complejo en funciones o módulos más
+pequeños y específicos, cada uno con una sola responsabilidad.
+
+
+Comenzar por las partes más simples y fáciles de entender antes de avanzar a las más complejas: Esto se
+relaciona con el principio de divide y vencerás, donde se divide un problema complejo en subproblemas
+más pequeños y manejables, y se resuelven primero los subproblemas más simples antes de avanzar a los
+más complejos.
+
+
+Revisar cada paso y cada parte, para asegurarse de que no se ha cometido ningún error: Esto se relaciona
+con la práctica de hacer pruebas y revisar el código para detectar y corregir errores, conocido como
+depuración.
+
+
+Proceder con orden, es decir, avanzar paso a paso, y no saltarse ningún paso importante: Esto se
+relaciona con la buena práctica de seguir un algoritmo o un plan para resolver un problema, y asegurarse
+de seguir todos los pasos necesarios para llegar a la solución.
+
+
+En resumen, el método descartesiano se relaciona con varias buenas prácticas y principios en programación, como
+el principio de responsabilidad única, el principio de divide y vencerás, la depuración y seguir un algoritmo o
+plan para resolver un problema. Estas prácticas ayudan a escribir código más legible, mantenible y escalable.
+    
